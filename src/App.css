@@ -1,0 +1,16 @@
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  background-color: #282c34;
+  color: whitesmoke;
+}
+
+p {
+  font-family: "Chelsea Market", cursive;
+  font-size: 44px;
+  margin-bottom: 24px;
+}
